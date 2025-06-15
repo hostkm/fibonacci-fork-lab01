@@ -276,3 +276,13 @@ Now that you have WSL set up and can compile C programs, you can:
 ---
 
 **Note**: This guide assumes you're using Windows 10/11 with WSL 2. Commands and steps may vary slightly depending on your specific Windows version and WSL distribution.
+This repository contains a simple C program...
+...
+## ✍️ Author
+
+**Kasun Mahela**
+Undergraduate | Electrical & Computer Engineering
+The Open University of Sri Lanka
+
+📧 Feel free to raise an issue or pull request if you face any problem running the code.
+...
